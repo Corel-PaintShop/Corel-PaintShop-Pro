@@ -33,7 +33,7 @@ Use names that make the relationship between those files easy to recognize.
 The official product page describes layers, masks, RAW editing, vector tools, and recorded scripts.
 Choose the tools that serve the current task rather than applying every available effect.
 
-![PaintShop Pro composition with named layers, a mask, and a separate export preview](ets/r1.jpg)
+![PaintShop Pro composition with named layers, a mask, and a separate export preview](etc/r1.jpg)
 
 ## User Manual
 
@@ -106,7 +106,7 @@ Older instructions may refer to controls arranged differently from the installed
 When researching jasc paint shop pro, distinguish older release instructions from current documentation.
 Check compatibility before reusing a script, brush, or plugin from another release.
 
-![PaintShop Pro editing workspace arranged for comparing the original image and final composition](ets/r2.jpg)
+![PaintShop Pro editing workspace arranged for comparing the original image and final composition](etc/r2.jpg)
 
 ## Development Notes and Build Instructions
 
